@@ -108,6 +108,3 @@ $totalbayar=$subtotal-$diskon;
 <p>&nbsp;</p>
 </body>
 </html>
-
- Gua pusing cun mau tidur aja
- 
